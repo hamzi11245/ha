@@ -3,4 +3,3 @@ google-genai
 moviepy==1.0.3
 pydub
 scipy
-pyaudioop
