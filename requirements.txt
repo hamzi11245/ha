@@ -1,5 +1,5 @@
 openai-whisper
 google-genai
-moviepy
+moviepy==1.0.3
 pydub
 scipy
